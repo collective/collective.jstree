@@ -1,0 +1,25 @@
+Metadata-Version: 1.0
+Name: collective.jstree
+Version: 0.9.7dev
+Summary: jsTree as a zope resource
+Home-page: UNKNOWN
+Author: Sasha Vincic
+Author-email: UNKNOWN
+License: GPL
+Description: Introduction
+        ============
+        
+        
+        
+        Changelog
+        =========
+        
+        0.9.7 - Unreleased
+        ----------------
+        
+        * Initial release
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
