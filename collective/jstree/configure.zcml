@@ -1,15 +1,9 @@
 <configure
     xmlns="http://namespaces.zope.org/zope"
     xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
-    xmlns:grok="http://namespaces.zope.org/grok"
     xmlns:plone="http://namespaces.plone.org/plone"
     xmlns:browser="http://namespaces.zope.org/browser"
     i18n_domain="collective.jstree">
-
-    <!-- Include configuration for dependencies listed in setup.py -->
-    <includeDependencies package="." />
-
-    <grok:grok package="." />
 
     <!-- Register an extension profile to make the product installable
         in Plone -->
