@@ -50,5 +50,4 @@
         permission="zope.Public"
         />
 
-
 </configure>

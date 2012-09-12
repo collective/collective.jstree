@@ -1,0 +1,4 @@
+<layers>
+    <layer name="collective.jstree" 
+           interface="collective.jstree.interfaces.IJsTreeLayer" />
+</layers>
