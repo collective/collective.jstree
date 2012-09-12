@@ -1,6 +1,12 @@
 Changelog
 =========
 
+1.0rc3 - (2012-09-12)
+--------------------
+
+* version pre-1.0-fix-1 of jsTree from www.jstree.com
+
+
 0.9.8 - (Unreleased)
 --------------------
 
