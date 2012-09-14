@@ -21,6 +21,12 @@
         permission="zope.Public"
         />
 
+    <browser:resourceDirectory
+        name="themes"
+        directory="jsTree/source/themes"
+        permission="zope.Public"
+        />
+
 <!-- Separate resource files for including in i.e plone portal_javascript registry -->
 
 <!-- from jstree docs: it is recommended not to rename jquery.tree.js or
