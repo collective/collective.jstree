@@ -45,4 +45,15 @@
         title=""
         />
 
+    <stylesheet
+        cacheable="True"
+        compression="safe"
+        cookable="True"
+        id="++resource++themes/default-mod/style.css"
+        media="screen"
+        rel="stylesheet"
+        rendering="link"
+        title=""
+        />
+
 </object>
