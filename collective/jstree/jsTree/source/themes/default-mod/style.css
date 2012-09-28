@@ -4,6 +4,10 @@
  * Supported plugins: ui (hovered, clicked), checkbox, contextmenu, search
  */
 
+/* overwriting some specific default Plone css */
+.jstree-default-mod a:link { border-bottom: none !important; }
+.jstree-default-mod a:link.jstree-clicked { border-bottom: 0.1em #DDDDDD solid !important; }
+
 .jstree-default-mod li, 
 .jstree-default-mod ins { background-image:url("d.png"); background-repeat:no-repeat; background-color:transparent; }
 .jstree-default-mod li { background-position:-90px 0; background-repeat:repeat-y; }
@@ -12,8 +16,8 @@
 .jstree-default-mod .jstree-closed > ins { background-position:-54px 0; }
 .jstree-default-mod .jstree-leaf > ins { background-position:-36px 0; }
 
-.jstree-default-mod .jstree-hovered { background:#e7f4f9; border:1px solid #d8f0fa; padding:0 2px 0 1px; }
-.jstree-default-mod .jstree-clicked { background:#beebff; border:1px solid #99defd; padding:0 2px 0 1px; }
+.jstree-default-mod .jstree-hovered { background:#ffffff; border:1px solid #ffffff; padding:0 2px 0 1px; }
+.jstree-default-mod .jstree-clicked { background:#DDDDDD; border:1px solid #DDDDDD; padding:0 2px 0 1px; }
 .jstree-default-mod a .jstree-icon { background-position:-56px -19px; }
 .jstree-default-mod a.jstree-loading .jstree-icon { background:url("throbber.gif") center center no-repeat !important; }
 
