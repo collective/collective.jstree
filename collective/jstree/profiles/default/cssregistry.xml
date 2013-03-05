@@ -2,6 +2,7 @@
 <object name="portal_css">
 
     <stylesheet
+        applyPrefix ="True"
         cacheable="True"
         compression="safe"
         cookable="True"
@@ -13,6 +14,7 @@
         />
 
     <stylesheet
+        applyPrefix ="True"
         cacheable="True"
         compression="safe"
         cookable="True"
@@ -24,6 +26,7 @@
         />
 
     <stylesheet
+        applyPrefix ="True"
         cacheable="True"
         compression="safe"
         cookable="True"
@@ -35,6 +38,7 @@
         />
 
     <stylesheet
+        applyPrefix ="True"
         cacheable="True"
         compression="safe"
         cookable="True"
@@ -46,6 +50,7 @@
         />
 
     <stylesheet
+        applyPrefix ="True"
         cacheable="True"
         compression="safe"
         cookable="True"
