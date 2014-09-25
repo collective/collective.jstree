@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '3.0.1a1'
+version = '1.0-rc3'
 
 setup(name='collective.jstree',
       version=version,
