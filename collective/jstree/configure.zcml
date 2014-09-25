@@ -24,7 +24,7 @@
 
     <browser:resourceDirectory
         name="themes"
-        directory="jsTree/source/themes"
+        directory="jsTree/themes"
         permission="zope.Public"
         />
 
@@ -35,19 +35,7 @@
 
     <browser:resource
         name="jquery.jstree.js"
-        file="jsTree/source/jquery.jstree.js"
-        permission="zope.Public"
-        />
-
-    <browser:resource
-        name="jstree-jquery.hotkeys.js"
-        file="jsTree/source/_lib/jquery.hotkeys.js"
-        permission="zope.Public"
-        />
-
-    <browser:resource
-        name="jstree-jsquery.cookie.js"
-        file="jsTree/source/_lib/jquery.cookie.js"
+        file="jsTree/jstree.js"
         permission="zope.Public"
         />
 
