@@ -6,7 +6,55 @@
         cacheable="True"
         compression="safe"
         cookable="True"
+        id="++resource++themes/apple/style.css"
+        media="screen"
+        rel="stylesheet"
+        rendering="link"
+        title=""
+        />
+
+    <stylesheet
+        applyPrefix ="True"
+        cacheable="True"
+        compression="safe"
+        cookable="True"
+        id="++resource++themes/classic/style.css"
+        media="screen"
+        rel="stylesheet"
+        rendering="link"
+        title=""
+        />
+
+    <stylesheet
+        applyPrefix ="True"
+        cacheable="True"
+        compression="safe"
+        cookable="True"
         id="++resource++themes/default/style.css"
+        media="screen"
+        rel="stylesheet"
+        rendering="link"
+        title=""
+        />
+
+    <stylesheet
+        applyPrefix ="True"
+        cacheable="True"
+        compression="safe"
+        cookable="True"
+        id="++resource++themes/default-rtl/style.css"
+        media="screen"
+        rel="stylesheet"
+        rendering="link"
+        title=""
+        />
+
+    <stylesheet
+        applyPrefix ="True"
+        cacheable="True"
+        compression="safe"
+        cookable="True"
+        id="++resource++themes/default-mod/style.css"
         media="screen"
         rel="stylesheet"
         rendering="link"
